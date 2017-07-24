@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "codemirror": "*",
-    "codemirror-spell-checker": "*",
+    "codemirror-spell-checker": "https://github.com/sparksuite/codemirror-spell-checker/tarball/e87f7fc48fdebc2f0fa3720719864521603daf6e",
     "marked": "*"
   },
   "devDependencies": {
